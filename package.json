@@ -1,0 +1,15 @@
+{
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zjhmale/light"
+  },
+  "license": "BSD",
+  "homepage": "https://github.com/zjhmale/light",
+  "dependencies": {
+    "methods": "^1.1.2",
+    "path-to-regexp": "^1.5.3",
+    "utils-merge": "^1.0.0"
+  }
+}
